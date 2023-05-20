@@ -1,0 +1,112 @@
+
+body {
+    background-color: rgb(149, 125, 182);
+}
+header {
+    font: normal 25pt Arial;
+    text-align: center;
+    color: beige;
+}
+div#area1 {
+    font: normal 60pt Times; /* fonte e tamanho do texto*/
+    background-color:  rgb(46, 4, 88);  /*cor do fundo*/
+    color: white; /*cor do texto, no caso da div*/
+    width: 200px;  /*largura do fundo roxo*/
+    height: 200px; /*altura do fundo roxo*/
+    line-height: 200px; /* posição do texto na vertical*/
+    text-align: center; /* posição do texto na horizontal*/
+    position: relative;
+    border-radius: 10px;
+    margin: 50pt 100pt;
+    margin-bottom: 20px; /*dá margem*/
+}
+
+div#area2 {
+    font: normal 60pt Times; /* fonte e tamanho do texto*/
+    background-color: rgb(75, 49, 98);  /*cor do fundo*/
+    color: white; /*cor do texto, no caso da div*/
+    width: 200px;  /*largura do fundo roxo*/
+    height: 200px; /*altura do fundo roxo*/
+    line-height: 200px; /* posição do texto na vertical*/
+    text-align: center; /* posição do texto na horizontal*/
+    border-radius: 10px;
+    margin: -165pt 300pt; 
+    margin-bottom: 20px; /*dá margem*/
+    
+}
+div#area3 {
+    font: normal 60pt Times; /* fonte e tamanho do texto*/
+    background-color:   rgb(46, 4, 88);  /*cor do fundo*/
+    color: white; /*cor do texto, no caso da div*/
+    width: 200px;  /*largura do fundo roxo*/
+    height: 200px; /*altura do fundo roxo*/
+    line-height: 200px; /* posição do texto na vertical*/
+    text-align: center; /* posição do texto na horizontal*/
+    border-radius: 10px;
+    margin: -165pt 500pt;
+    margin-bottom: 20px;
+}
+div#area4 {
+    font: normal 60pt Times; /* fonte e tamanho do texto*/
+    background-color: rgb(75, 49, 98); /*cor do fundo*/
+    color: white; /*cor do texto, no caso da div*/
+    width: 200px;  /*largura do fundo roxo*/
+    height: 200px; /*altura do fundo roxo*/
+    line-height: 200px; /* posição do texto na vertical*/
+    text-align: center; /* posição do texto na horizontal*/
+    border-radius: 10px;
+    margin: -165pt 700pt;
+    margin-bottom: 20px;
+}
+div#area5 {
+    font: normal 60pt Times; /* fonte e tamanho do texto*/
+    background-color:  rgb(75, 49, 98);  /*cor do fundo*/
+    color: white; /*cor do texto, no caso da div*/
+    width: 200px;  /*largura do fundo roxo*/
+    height: 200px; /*altura do fundo roxo*/
+    line-height: 200px; /* posição do texto na vertical*/
+    text-align: center; /* posição do texto na horizontal*/
+    border-radius: 10px;
+    margin: 40pt 100pt;
+    margin-bottom: 20px;
+}
+div#area6 {
+    font: normal 60pt Times; /* fonte e tamanho do texto*/
+    background-color:  rgb(46, 4, 88);  /*cor do fundo*/
+    color: white; /*cor do texto, no caso da div*/
+    width: 200px;  /*largura do fundo roxo*/
+    height: 200px; /*altura do fundo roxo*/
+    line-height: 200px; /* posição do texto na vertical*/
+    text-align: center; /* posição do texto na horizontal*/
+    border-radius: 10px;
+    margin: -165pt 300pt;
+    margin-bottom: 20px;
+}
+div#area7 {
+    font: normal 60pt Times; /* fonte e tamanho do texto*/
+    background-color:  rgb(75, 49, 98);  /*cor do fundo*/
+    color: white; /*cor do texto, no caso da div*/
+    width: 200px;  /*largura do fundo roxo*/
+    height: 200px; /*altura do fundo roxo*/
+    line-height: 200px; /* posição do texto na vertical*/
+    text-align: center; /* posição do texto na horizontal*/
+    border-radius: 10px;
+    margin: -165pt 500pt;
+    margin-bottom: 20px;
+}
+div#area8 {
+    font: normal 60pt Times; /* fonte e tamanho do texto*/
+    background-color: rgb(46, 4, 88);  /*cor do fundo*/
+    color: white; /*cor do texto, no caso da div*/
+    width: 200px;  /*largura do fundo roxo*/
+    height: 200px; /*altura do fundo roxo*/
+    line-height: 200px; /* posição do texto na vertical*/
+    text-align: center; /* posição do texto na horizontal*/
+    border-radius: 10px;
+    margin: -165pt 700pt;
+    margin-bottom: 20px;
+}
+footer {
+    text-align: center; 
+    color: beige;
+}
